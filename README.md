@@ -1,1 +1,1 @@
-# ServiceNow_Code
+Revised AngularJS Workshop
